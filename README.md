@@ -1,10 +1,10 @@
 # Chicago app extention
 
-My app is [here](https://liamcoles.shinyapps.io/liams_first_app/)
+My app is [here](https://liamcoles.shinyapps.io/liams_first_app/), and the code to create it can be found in [this](app.R) file.
 
 The data used for this application can be downloaded [here](employees-all.csv). Though, the orignal data is from the [Chicago Data Portal](https://data.cityofchicago.org/) website. 
 
-This app is a continuation of the basis Chicago Wage App in the Uchicago Computing for the Social Sciences class. This app extends this by adding salaried workers and a couple other features. This app still has all of the original features. For a look at the original app click [here](https://cfss.uchicago.edu/shiny.html#final_shiny_app_code).
+This app is a continuation of the basis Chicago Wage App in the Uchicago Computing for the Social Sciences class. This version extends this by adding salaried workers and a couple other features. It still has all of the original features. For a look at the original app click [here](https://cfss.uchicago.edu/shiny.html#final_shiny_app_code).
 
 
 ## Tabs
